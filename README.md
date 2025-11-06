@@ -4,6 +4,19 @@
 <img width="1920" height="1080" alt="almoxarifadojava" src="https://github.com/user-attachments/assets/4c1993ae-a851-4dd3-b646-31a7947ffe7d" />
 
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  # Almoxarifado-em-Java-
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
@@ -255,4 +268,5 @@ public class AlmoxarifadoGUI extends JFrame implements ActionListener {
         SwingUtilities.invokeLater(AlmoxarifadoGUI::new);
     }
 }
+
 
