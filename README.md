@@ -1,7 +1,7 @@
 
  
  
-<img width="1920" height="1080" alt="almoxarifadojava" src="https://github.com/user-attachments/assets/4c1993ae-a851-4dd3-b646-31a7947ffe7d" />
+<img width="1720" height="880" alt="almoxarifadojava" src="https://github.com/user-attachments/assets/4c1993ae-a851-4dd3-b646-31a7947ffe7d" />
 
  
  
@@ -268,5 +268,6 @@ public class AlmoxarifadoGUI extends JFrame implements ActionListener {
         SwingUtilities.invokeLater(AlmoxarifadoGUI::new);
     }
 }
+
 
 
